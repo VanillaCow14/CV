@@ -1,0 +1,24 @@
+h1{
+        border-style: solid;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 50px;
+        color:#f79e96;
+        text-align: center;
+
+}
+
+body{
+
+    background-color: #0097b2;
+}
+
+h2{
+    color: #f79e96;
+    text-align: center;
+
+}
+
+h3{
+
+    text-align: center;
+}
